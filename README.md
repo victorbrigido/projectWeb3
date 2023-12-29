@@ -3,6 +3,16 @@
 ## Descrição
 Este projeto é uma interface básica para interagir com a blockchain Ethereum(Metamask usada no exemplo) usando tecnologias Web3.0. Ele permite a conexão de uma carteira ao site, possibilitando aos usuários fazer login e exibir o endereço da carteira conectada.
 
+Ao clicar em Logar! o usuario vai logar atraves na Metamask e exibira a sua chave pública(se tiver a extensao no navegador, ele vai solicitar a permissao). Caso nao tenha sera direcionado para a pagina do Metamask para criar ou importar carteira.
+
+<img width="1440" alt="Captura de Tela 2023-12-29 às 12 08 47" src="https://github.com/victorbrigido/projectWeb3/assets/110338761/ce67d1b9-a7ec-48fe-804c-097505b60370">
+<img width="1440" alt="Captura de Tela 2023-12-29 às 12 09 41" src="https://github.com/victorbrigido/projectWeb3/assets/110338761/b4bda300-0d31-4b5c-9f40-5d45223d3829">
+<img width="1440" alt="Captura de Tela 2023-12-29 às 12 08 28" src="https://github.com/victorbrigido/projectWeb3/assets/110338761/aab5e423-c4f5-4187-a3ad-93fdd4b3f451">
+
+
+
+
+
 ## Potenciais Usos
 
 1. **Autenticação Descentralizada:** Utilização para autenticação descentralizada em aplicativos ou sites, permitindo que os usuários se autentiquem usando suas carteiras Ethereum, aumentando a segurança e eliminando senhas.
